@@ -19,3 +19,4 @@ samples, guidance on mobile development, and a full API reference.
   1. fluttertoast (show the toast message like bottom message in old mobile phone
   2. http (it is used for handle the API in Flutter application)
   3. Flutter Fluchbar (it is also use for the show the message)
+  4. Provider for State Management
